@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="circle.first.color">#16cdd5</color>
+    <color name="circle.second.color">#ffdf00</color>
+    <color name="circle.third.color">#b76cad</color>
+    <color name="circle.forth.color">#237ac1</color>
+    <color name="circle.fifth.color">#5a9f1f</color>
+    <color name="circle.sixth.color">#ff9600</color>
+    <color name="circle.seventh.color">#fa31ad</color>
+    <color name="circle.eight.color">#f63d1f</color>
+
+    <color name="round.color.center.circle">#dddddd</color>
+    <color name="round.color.center.circle.second">#f2f2f2</color>
+    <color name="round.color.center.circle.text">#4d4d4d</color>
+</resources>

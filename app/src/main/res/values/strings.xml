@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChartView</string>
+
+    <string name="circle.description">Slide the seekbars to change the chart view status</string>
+    <string name="circle.preview.description">The result of your setup for pie charts</string>
+    <string name="circle.first">First</string>
+    <string name="circle.second">Second</string>
+    <string name="circle.third">Third</string>
+    <string name="circle.forth">Fourth</string>
+    <string name="circle.fifth">Fifth</string>
+    <string name="circle.sixth">Sixth</string>
+    <string name="circle.seventh">Seventh</string>
+    <string name="circle.eighth">Eighth</string>
+
+    <string name="button.ready">Send</string>
+
+    <string name="button.i.clicked">You clicked on center of the chart!</string>
+</resources>
